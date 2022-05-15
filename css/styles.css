@@ -1,0 +1,51 @@
+
+BODY {
+   background-image: url('https://i.imgur.com/K6g10BB.jpg');
+   background-repeat: repeat;
+   padding: 20px;
+}
+
+.poster {
+  width: 488px;
+  height: 740px;
+  background-image: url( "https://i.imgur.com/Y9Tiq8a.jpg");
+  box-sizing: border-box;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 5px 5px 5px 0px;
+  color: #291200;
+}
+
+#mugshot {
+  width: 300px;
+  height: 325px;
+  border: 2px solid #291200;
+  filter: sepia(60%);
+
+}
+
+h1 {
+  font-family: "Ewert", cursive;
+  font-size: 50pt;
+  font-weight: normal;
+  margin: 0px;
+}
+
+
+ p {
+  font-family: 'Ultra', serif;
+}
+
+h2 {
+  font-family: 'Ultra', serif;
+  font-weight: normal;
+}
+
+.name {
+  font-size: 25pt;
+}
+
+#price {
+  font-family: 'Ultra', serif;
+  font-size: 25pt;
+}
